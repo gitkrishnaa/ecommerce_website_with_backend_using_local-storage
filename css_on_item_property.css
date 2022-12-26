@@ -1,0 +1,20 @@
+/* i have added class name in item propety */
+/* and */
+/* 
+element name in squence(if i chnage the i will update)
+element_name elemet property
+ let name=document.createElement("h3");
+  let price=document.createElement("h4");
+  let rating=document.createElement("h5");
+
+
+  name.className="item_property_css"
+price.className="item_property_css"
+rating.className="item_property_css"
+
+note - you can view in sourec also in broser source
+*/
+.item_property_css{
+  /* background-color: rgb(228, 212, 212); */
+  margin: 5px;
+}
